@@ -1,0 +1,13 @@
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\bin\Debug\netcoreapp3.1\Abstração.exe
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\bin\Debug\netcoreapp3.1\Abstração.deps.json
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\bin\Debug\netcoreapp3.1\Abstração.runtimeconfig.json
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\bin\Debug\netcoreapp3.1\Abstração.runtimeconfig.dev.json
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\bin\Debug\netcoreapp3.1\Abstração.dll
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\bin\Debug\netcoreapp3.1\Abstração.pdb
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\obj\Debug\netcoreapp3.1\Abstração.csprojAssemblyReference.cache
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\obj\Debug\netcoreapp3.1\Abstração.csproj.CoreCompileInputs.cache
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\obj\Debug\netcoreapp3.1\Abstração.AssemblyInfoInputs.cache
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\obj\Debug\netcoreapp3.1\Abstração.AssemblyInfo.cs
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\obj\Debug\netcoreapp3.1\Abstração.dll
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\obj\Debug\netcoreapp3.1\Abstração.pdb
+C:\Users\rafac\OneDrive\Documentos\SENAI\Abstração\obj\Debug\netcoreapp3.1\Abstração.genruntimeconfig.cache
